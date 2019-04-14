@@ -2,14 +2,14 @@
 /////////TF2 mods in tf/custom////////
 //////////////////////////////////////
 
-Hitsounds:
+Hitsounds folder:
 -Killsound and a hitsound
 
 NoBackstab folders:
 -Replaced normal backstab animation with just "poking" animation
 
 diminishedexplosions:
--Makes rocket explosions smaller
+-Smaller explosions blasts
 
 Disguise Kit Mod:
 -Just a funny mod for spy lol
