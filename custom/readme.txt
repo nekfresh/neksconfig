@@ -23,5 +23,11 @@ medicgun_beam:
 orignalLeftHandFix:
 -Removes third arm for soldier when using the Original in high viewmodel
 
-Surfaceproperties:
+Surfaceproperties.txt:
 -Gets rid of impact dust and other visual clutter
+
+Surfaceproperties.vpk:
+-Makes all footsteps sound like they're on a metal surface
+
+nosoundscapes:
+Removes background noises in maps
