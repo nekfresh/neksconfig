@@ -52,4 +52,3 @@ Sniper:
 
 Spy:
 -Has null movement, invisible viewmodels depending on the slot and crosshair3 as default
--Uses crosshair5 as the default instead of crosshair3
