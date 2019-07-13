@@ -11,15 +11,6 @@ NoBackstab folders:
 diminishedexplosions:
 -Smaller explosions blasts
 
-Disguise Kit Mod:
--Just a funny mod for spy lol
-
-medicgun_attrib:
--Makes a big overheal particle above a player's head so it's easier to see if they are overhealed
-
-medicgun_beam:
--Reduced particles/less visible medigun-beam
-
 orignalLeftHandFix:
 -Removes third arm for soldier when using the Original in high viewmodel
 
@@ -30,4 +21,10 @@ Surfaceproperties.vpk:
 -Makes all footsteps sound like they're on a metal surface
 
 nosoundscapes:
-Removes background noises in maps
+-Removes background noises in maps
+
+No_pyroland.vpk: (From masterconfig's config)
+-Removes any Pyroland related textures or entities
+
+no_extra_models.vpk: (From masterconfig's config)
+-Removes any bugged extra models in your viewmodel
