@@ -4,7 +4,7 @@
 * [Discord](https://discord.gg/PFFs4hN)
 
 # Updating
-When a new release comes out, check out the latest release and then download the latest files and drag them into your `tf/custom` folder, replacing the old files. This config gets updates frequently, so to get the latest updates make sure you check here for new releases on a day to day basis. (Or just join my server Discord server)
+When a new release comes out, check out the latest release and then download the latest files and drag them into your `tf/custom` folder, replacing the old files. This config gets updates frequently, so to get the latest updates make sure you join my [Discord](https://discord.gg/PFFs4hN) to on time for the new releases.
 
 # See also
 * [No backstab animation](https://drive.google.com/drive/folders/1FrevlL2Q5w77DKSa7vbyVzr_g9IXzopB?usp=sharing) - backstabs look like pokes instead of having a animation
