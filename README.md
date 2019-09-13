@@ -1,10 +1,10 @@
 # Quick links
 * [Wiki](https://github.com/nekfresh/neksconfig/wiki)
-* [Updating](#updating)
-* [Discord](https://discord.gg/PFFs4hN)
+* [Discord](https://discord.gg/DAC4Qbv)
+* [Steam](https://steamcommunity.com/id/nekfresh)
 
 # Updating
-* To know when a new release comes out join my [Discord](https://discord.gg/PFFs4hN) to download the latest version.
+* To know when a new release comes out join my [Discord](https://discord.gg/DAC4Qbv) to download the latest version.
 
 # See also
 * [No backstab animation](https://drive.google.com/drive/folders/1FrevlL2Q5w77DKSa7vbyVzr_g9IXzopB?usp=sharing) - backstabs look like pokes instead of having a animation
