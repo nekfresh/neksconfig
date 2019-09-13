@@ -4,7 +4,7 @@
 * [Discord](https://discord.gg/PFFs4hN)
 
 # Updating
-To know when a new release comes out join my [Discord](https://discord.gg/PFFs4hN) to download the latest version.
+* To know when a new release comes out join my [Discord](https://discord.gg/PFFs4hN) to download the latest version.
 
 # See also
 * [No backstab animation](https://drive.google.com/drive/folders/1FrevlL2Q5w77DKSa7vbyVzr_g9IXzopB?usp=sharing) - backstabs look like pokes instead of having a animation
