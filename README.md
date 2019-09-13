@@ -1,7 +1,7 @@
 # Quick links
 * [Wiki](https://github.com/nekfresh/neksconfig/wiki)
-* [Discord](https://discord.gg/DAC4Qbv)
 * [Steam](https://steamcommunity.com/id/nekfresh)
+* [Discord](https://discord.gg/DAC4Qbv)
 
 # Updating
 * To know when a new release comes out join my [Discord](https://discord.gg/DAC4Qbv) to download the latest version.
