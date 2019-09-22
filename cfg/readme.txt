@@ -6,7 +6,7 @@ Autoexec:
 -Executes binds and settings upon launch
 
 Settings:
--Graphical or gameplay related
+-Graphical and gameplay related
 
 Binds:
 -Custom binds and keys
