@@ -22,4 +22,4 @@
 # Legal
 Valve, the Valve logo, Steam, the Steam logo, Team Fortress, the Team Fortress logo are trademarks and/or registered trademarks of Valve Corporation in the U.S. and/or other countries.
 
-neksconfig is not sponsored, endorsed, licensed by, or affiliated with Valve Corporation.
+tf2config is not sponsored, endorsed, licensed by, or affiliated with Valve Corporation.
