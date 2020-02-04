@@ -3,11 +3,12 @@
 * [Youtube](https://www.youtube.com/channel/UCHRTcx22PpzIPzKDG2cRv8w)
 
 # See also
-* [No backstab animation](https://drive.google.com/drive/folders/1FrevlL2Q5w77DKSa7vbyVzr_g9IXzopB?usp=sharing) - Backstabs look like pokes instead of having a animation
-* [Diminished explosions](https://drive.google.com/file/d/1BkKbRF4IFUQJa2FFRZgfdq4ya0F4OfBp/view?usp=sharing) - Smaller explosion blasts
-* [No soundscapes](https://drive.google.com/file/d/17BWQMJbOvlZepL9SwMRvXC3J9uoFvuBm/view?usp=sharing) - Get rids of ambient map noises
-* [Original hand fix](https://drive.google.com/file/d/1xbLqEZSXZMe2zauGzq_8AokXhF6-2PRN/view?usp=sharing) - Removes third arm when using a large viewmodel (Only for the original does _not_ work for spy)
-* [Surfaceproperties.txt](https://drive.google.com/file/d/1Sha0nkpYkaLZEkbfVDKg5EDGsnPJEDLa/view?usp=sharing) - Gets rid of impact dust and other visual clutter. No FPS impact.
+* [No backstab animation](#) - Backstabs look like pokes instead of having a animation
+* [Diminished explosions](#) - Smaller explosion blasts
+* [No pyroland](#) - Removes any Pyroland related textures or entities
+* [No extra models](#) - Removes any bugged extra models in your viewmodel
+* [Original hand fix](#) - Removes third arm when using a large viewmodel (Only for the original does _not_ work for spy)
+* [Surfaceproperties.txt](#) - Gets rid of impact dust and other visual clutter.
 
 **These mods are _not_ mine and I am not taking any credit for them, simply just uploading it to my Google drive, if you are one of the creators of these mods and you don't want that then DM me.**
 
