@@ -1,6 +1,6 @@
-# Quick links
-* [Wiki](https://github.com/nekfresh/neksconfig/wiki)
+# Links
 * [Steam](https://steamcommunity.com/id/nekfresh)
+* [Youtube](https://www.youtube.com/channel/UCHRTcx22PpzIPzKDG2cRv8w)
 
 # See also
 * [No backstab animation](https://drive.google.com/drive/folders/1FrevlL2Q5w77DKSa7vbyVzr_g9IXzopB?usp=sharing) - Backstabs look like pokes instead of having a animation
