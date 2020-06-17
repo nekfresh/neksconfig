@@ -8,7 +8,7 @@
 * [No extra models](#) - Removes any bugged extra models in your viewmodel
 * [Original hand fix](#) - Removes third arm when using a large viewmodel (Only for the original does _not_ work for spy)
 * [Surfaceproperties.txt](#) - Gets rid of impact dust and other visual clutter.
-* [Remove main menu character] (#) - Removes class image from the main menu
+* [Remove main menu character](#) - Removes class image from the main menu
 
 **These mods are _not_ mine and I am not taking any credit for them, simply just uploading it to my Google drive, if you are one of the creators of these mods and you don't want that then DM me.**
 
