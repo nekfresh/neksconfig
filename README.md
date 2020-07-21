@@ -14,5 +14,6 @@
 * [?]()
 
 ### Support
-* [Report bugs here](https://github.com/nekfresh/tf2config/issues)
-* [Contact me](https://discord.gg/JRprcnz)
+* [Report bugs](https://github.com/nekfresh/tf2config/issues)
+* [Discord](https://discord.gg/JRprcnz)
+* [Steam](https://steamcommunity.com/id/nekfresh)
