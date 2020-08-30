@@ -5,12 +5,12 @@
 
 ### Installation
 1. Download ahud by clicking `Download ZIP` from the green `Clone or download` button
-2. Navigate to `\Steam\steamapps\common\Team Fortress 2\tf\cfg`
-3. Extract `tf2config` from the ZIP file to the `cfg` folder
+2. Navigate to `\Steam\steamapps\common\Team Fortress 2\tf\cfg\`
+3. Extract `tf2config` from the ZIP file into the `cfg` folder
 4. Make sure to insert the `launch options` in the launch options properties
 5. Run Team Fortress 2
+6. Done!
 
 ### Support
 * [Report bugs](https://github.com/nekfresh/tf2config/issues)
-* [Discord](https://discord.gg/JRprcnz)
 * [Steam](https://steamcommunity.com/id/nekfresh)
