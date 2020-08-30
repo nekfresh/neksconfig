@@ -1230,7 +1230,7 @@
 				"width"		"64"
 				"height"	"32"
 		}
-		"holy_mackerel"
+		"holymackerel"
 		{
 				"dfile"	"HUD/d_images_v2"
 				"dnegfile"	"HUD/dneg_images_v2"
@@ -3468,7 +3468,7 @@
 				"width"		"86"
 				"height"	"32"
 		}
-		"short_stop"
+		"shortstop"
 		{
 				"dfile"	"vgui\logos\ImprovedKillIcons\d"
 				"dnegfile"	"vgui\logos\ImprovedKillIcons\dneg"
@@ -3558,15 +3558,15 @@
 				"width"		"86"
 				"height"	"32"
 		}
-//		"lava_bat_nofire"
-//		{
-//				"dfile"	"vgui\logos\ImprovedKillIcons\d"
-//				"dnegfile"	"vgui\logos\ImprovedKillIcons\dneg"
-//				"x"		"256"
-//				"y"		"32"
-//				"width"		"89"
-//				"height"	"32"
-//		}
+		"lava_bat_nofire"
+		{
+				"dfile"	"vgui\logos\ImprovedKillIcons\d"
+				"dnegfile"	"vgui\logos\ImprovedKillIcons\dneg"
+				"x"		"256"
+				"y"		"32"
+				"width"		"89"
+				"height"	"32"
+		}
 		"lava_bat"
 		{
 				"dfile"	"vgui\logos\ImprovedKillIcons\d"
@@ -3721,15 +3721,15 @@
 				"width"		"64"
 				"height"	"32"
 		}
-//		"pickaxe_escape"
-//		{
-//				"dfile"	"vgui\logos\ImprovedKillIcons\d"
-//				"dnegfile"	"vgui\logos\ImprovedKillIcons\dneg"
-//				"x"		"128"
-//				"y"		"128"
-//				"width"		"75"
-//				"height"	"32"
-//		}
+		"pickaxe_escape"
+		{
+				"dfile"	"vgui\logos\ImprovedKillIcons\d"
+				"dnegfile"	"vgui\logos\ImprovedKillIcons\dneg"
+				"x"		"128"
+				"y"		"128"
+				"width"		"75"
+				"height"	"32"
+		}
 		"disciplinary_action"
 		{
 				"dfile"	"vgui\logos\ImprovedKillIcons\d"
@@ -3766,33 +3766,33 @@
 				"width"		"59"
 				"height"	"32"
 		}
-//		"taunt_soldier_ornament"
-//		{
-//				"dfile"	"vgui\logos\ImprovedKillIcons\d"
-//				"dnegfile"	"vgui\logos\ImprovedKillIcons\dneg"
-//				"x"		"768"
-//				"y"		"128"
-//				"width"		"64"
-//				"height"	"32"
-//		}
-//		"taunt_soldier_pineapple"
-//		{
-//				"dfile"	"vgui\logos\ImprovedKillIcons\d"
-//				"dnegfile"	"vgui\logos\ImprovedKillIcons\dneg"
-//				"x"		"896"
-//				"y"		"128"
-//				"width"		"58"
-//				"height"	"32"
-//		}
-//		"taunt_soldier_cocktail"
-//		{
-//				"dfile"	"vgui\logos\ImprovedKillIcons\d"
-//				"dnegfile"	"vgui\logos\ImprovedKillIcons\dneg"
-//				"x"		"0"
-//				"y"		"160"
-//				"width"		"54"
-//				"height"	"32"
-//		}
+		"taunt_soldier_ornament"
+		{
+				"dfile"	"vgui\logos\ImprovedKillIcons\d"
+				"dnegfile"	"vgui\logos\ImprovedKillIcons\dneg"
+				"x"		"768"
+				"y"		"128"
+				"width"		"64"
+				"height"	"32"
+		}
+		"taunt_soldier_pineapple"
+		{
+				"dfile"	"vgui\logos\ImprovedKillIcons\d"
+				"dnegfile"	"vgui\logos\ImprovedKillIcons\dneg"
+				"x"		"896"
+				"y"		"128"
+				"width"		"58"
+				"height"	"32"
+		}
+		"taunt_soldier_cocktail"
+		{
+				"dfile"	"vgui\logos\ImprovedKillIcons\d"
+				"dnegfile"	"vgui\logos\ImprovedKillIcons\dneg"
+				"x"		"0"
+				"y"		"160"
+				"width"		"54"
+				"height"	"32"
+		}
 		"mantreads"
 		{
 				"dfile"	"vgui\logos\ImprovedKillIcons\d"
@@ -3875,15 +3875,15 @@
 				"width"		"94"
 				"height"	"32"
 		}
-//		"detonator_explode"
-//		{
-//				"dfile"	"vgui\logos\ImprovedKillIcons\d"
-//				"dnegfile"	"vgui\logos\ImprovedKillIcons\dneg"
-//				"x"		"896"
-//				"y"		"192"
-//				"width"		"95"
-//				"height"	"32"
-//		}
+		"detonator_explode"
+		{
+				"dfile"	"vgui\logos\ImprovedKillIcons\d"
+				"dnegfile"	"vgui\logos\ImprovedKillIcons\dneg"
+				"x"		"896"
+				"y"		"192"
+				"width"		"95"
+				"height"	"32"
+		}
 		"manmelter"
 		{
 				"dfile"	"vgui\logos\ImprovedKillIcons\d"
@@ -3893,7 +3893,7 @@
 				"width"		"94"
 				"height"	"32"
 		}
-		"scorchshot"
+		"scorch_shot"
 		{
 				"dfile"	"vgui\logos\ImprovedKillIcons\d"
 				"dnegfile"	"vgui\logos\ImprovedKillIcons\dneg"
@@ -5819,7 +5819,58 @@
 				"width"		"63"
 				"height"	"32"
 		}
+		// TJ Missing textures... not consistent but still
+		"crocodile"
+		{
+			"dfile"	"HUD/d_images_v3"
+			"dnegfile"	"HUD/dneg_images_v3"
+			"x"		"256"
+			"y"		"864"
+			"width"		"128"
+			"height"	"32"
+		}
 
+ 		"dragons_fury"
+		{
+			"dfile"	"HUD/d_images_v3"
+			"dnegfile"	"HUD/dneg_images_v3"
+			"x"		"0"
+			"y"		"992"
+			"width"		"96"
+			"height"	"32"
+		}
+
+ 		"dragons_fury_bonus"
+		{
+			"dfile"	"HUD/d_images_v3"
+			"dnegfile"	"HUD/dneg_images_v3"
+			"x"		"256"
+			"y"		"992"
+			"width"		"128"
+			"height"	"32"
+		}
+
+		"hot_hand"
+		{
+			"dfile"	"HUD/d_images_v3"
+			"dnegfile"	"HUD/dneg_images_v3"
+			"x"		"256"
+			"y"		"928"
+			"width"		"64"
+			"height"	"32"
+		}
+
+		"gas_blast"
+		{
+			"dfile"	"HUD/d_images_v3"
+			"dnegfile"	"HUD/dneg_images_v3"
+			"x"		"256"
+			"y"		"960"
+			"width"		"64"
+			"height"	"32"
+		}
+	}
+}
 //ORIGINAL STYLE SHORT FLAMETHROWERS
 //		"flamethrower"
 //		{
