@@ -10,7 +10,3 @@
 4. Make sure to insert the `launch options` in the launch options properties
 5. Run Team Fortress 2
 6. Done!
-
-### Support
-* [Report bugs](https://github.com/nekfresh/tf2config/issues)
-* [Steam](https://steamcommunity.com/id/nekfresh)
