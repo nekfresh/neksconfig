@@ -1,14 +1,3 @@
-// How to customize textures:
-// 1. Scroll down to "Begin Customizable Icons".
-// 2. Uncomment (delete "//") each line from the icon you want.
-// 3. Comment (add "//") in front of each line from the icon you don't want.
-// 4. Have fun!
-//
-//######################################################################################################
-//------------------------------------------------------------------------------------------------------
-//			Begin Base Icons (Do not touch)
-//------------------------------------------------------------------------------------------------------
-//######################################################################################################
 "sprites/640_hud"
 {
 
@@ -888,15 +877,6 @@
 				"width"		"96"
 				"height"	"32"
 		}
-		"tf_generic_bomb"
-		{
-				"dfile"	"HUD/d_images"
-				"dnegfile"	"HUD/dneg_images"
-				"x"		"120"
-				"y"		"320"
-				"width"		"48"
-				"height"	"32"
-		}
 		"taunt_soldier"
 		{
 				"dfile"	"HUD/d_images"
@@ -1230,7 +1210,7 @@
 				"width"		"64"
 				"height"	"32"
 		}
-		"holymackerel"
+		"holy_mackerel"
 		{
 				"dfile"	"HUD/d_images_v2"
 				"dnegfile"	"HUD/dneg_images_v2"
@@ -1581,16 +1561,6 @@
 			"width"		"128"
 			"height"	"128"
 		}
-
-		"obj_weapon_pickup"
-		{
-			"file"	"HUD/hud_obj_weapon_pickup"
-			"x"		"0"
-			"y"		"0"
-			"width"		"128"
-			"height"	"128"
-		}
-
 	
 		"obj_status_tele_entrance"
 		{
@@ -1829,25 +1799,6 @@
 			"height"	"64"
 		}	
 		
-		"leaderboard_streak"
-		{
-			"file"		"hud/leaderboard_streak"
-			"negfile"	"HUD/dneg_leaderboard_streak"
-			"x"		"0"
-			"y"		"0"
-			"width"		"64"
-			"height"	"64"
-		}	
-		
-		"leaderboard_streak_dneg"
-		{
-			"file"		"hud/dneg_leaderboard_streak"
-			"x"		"0"
-			"y"		"0"
-			"width"		"64"
-			"height"	"64"
-		}	
-		
 		"hud_menu_bg"
 		{
 			"file"		"hud/eng_build_bg"
@@ -2079,9 +2030,6 @@
 			"width"		"128"
 			"height"	"128"
 		}
-
-
-
 		
 		"ico_metal"
 		{	
@@ -2172,28 +2120,10 @@
 			"width"	"256"
 			"height"	"256"
 		}
-
-		"ico_notify_flag_home_alt"
-		{
-			"file"		"hud/objectives_flagpanel_ico_flag_home_alt"
-			"x"		"0"
-			"y"		"0"
-			"width"	"256"
-			"height"	"256"
-		}
 		
 		"ico_notify_flag_moving"
 		{
 			"file"		"hud/objectives_flagpanel_ico_flag_moving"
-			"x"		"0"
-			"y"		"0"
-			"width"	"256"
-			"height"	"256"
-		}
-
-		"ico_notify_flag_moving_alt"
-		{
-			"file"		"hud/objectives_flagpanel_ico_flag_moving_alt"
 			"x"		"0"
 			"y"		"0"
 			"width"	"256"
@@ -2216,24 +2146,6 @@
 			"y"		"736"
 			"width"		"96"
 			"height"	"32"
-		}
-
-		"ico_ghost"
-		{
-			"file"	"HUD/ghost_icon"		
-			"x"		"0"
-			"y"		"0"
-			"width"		"256"
-			"height"	"256"
-		}
-
-		"ico_kart"
-		{
-			"file"	"HUD/cart_icon"		
-			"x"		"0"
-			"y"		"0"
-			"width"		"256"
-			"height"	"256"
 		}
 		
 		"ico_notify_highfive"
@@ -2781,27 +2693,27 @@
 			"dfile"	"HUD/d_images_v3"
 				"dnegfile"	"HUD/dneg_images_v3"
 				"x"		"256"
-				"y"		"128"
+				"y"		"125"
 				"width"		"128"
-				"height"	"32"
+				"height"	"35"
 		}
 		"pep_brawlerblaster"
 		{
 			"dfile"	"HUD/d_images_v3"
 				"dnegfile"	"HUD/dneg_images_v3"
 				"x"		"256"
-				"y"		"160"
+				"y"		"161"
 				"width"		"128"
-				"height"	"32"
+				"height"	"31"
 		}
 		"dumpster_device"
 		{
 			"dfile"	"HUD/d_images_v3"
 				"dnegfile"	"HUD/dneg_images_v3"
 				"x"		"256"
-				"y"		"192"
+				"y"		"187"
 				"width"		"128"
-				"height"	"32"
+				"height"	"36"
 		}
 		"long_heatmaker"
 		{
@@ -2839,625 +2751,7 @@
 				"width"		"96"
 				"height"	"31"
 		}
-		"loose_cannon_impact"
-		{
-			"dfile"	"HUD/d_images_v3"
-				"dnegfile"	"HUD/dneg_images_v3"
-				"x"		"0"
-				"y"		"928"
-				"width"		"96"
-				"height"	"32"
-		}
-		"freedom_staff"
-		{
-			"dfile"	"HUD/d_images_v3"
-				"dnegfile"	"HUD/dneg_images_v3"
-				"x"		"256"
-				"y"		"224"
-				"width"		"128"
-				"height"	"32"
-		}
-		"merasmus_decap"
-		{
-				"dfile"	"HUD/d_images_v3"
-				"dnegfile"	"HUD/dneg_images_v3"
-				"x"		"256"
-				"y"		"256"
-				"width"		"128"
-				"height"	"32"
-		}
-		"merasmus_zap"
-		{
-			"dfile"	"HUD/d_images_v3"
-				"dnegfile"	"HUD/dneg_images_v3"
-				"x"		"256"
-				"y"		"288"
-				"width"		"128"
-				"height"	"32"
-		}
-		"merasmus_grenade"
-		{
-			"dfile"	"HUD/d_images_v3"
-				"dnegfile"	"HUD/dneg_images_v3"
-				"x"		"256"
-				"y"		"320"
-				"width"		"128"
-				"height"	"32"
-		}
-		"merasmus_player_bomb"
-		{
-			"dfile"	"HUD/d_images_v3"
-				"dnegfile"	"HUD/dneg_images_v3"
-				"x"		"256"
-				"y"		"352"
-				"width"		"128"
-				"height"	"32"
-		}
-		"loose_cannon_explosion"
-		{
-			"dfile"	"HUD/d_images_v3"
-				"dnegfile"	"HUD/dneg_images_v3"
-				"x"		"256"
-				"y"		"384"
-				"width"		"128"
-				"height"	"32"
-		}		
-		"rescue_ranger"
-		{
-			"dfile"	"HUD/d_images_v3"
-				"dnegfile"	"HUD/dneg_images_v3"
-				"x"		"256"
-				"y"		"416"
-				"width"		"128"
-				"height"	"32"
-		}
-		"memory_maker"
-		{
-			"dfile"	"HUD/d_images_v3"
-				"dnegfile"	"HUD/dneg_images_v3"
-				"x"		"192"
-				"y"		"0"
-				"width"		"64"
-				"height"	"32"
-		}		
-		"loose_cannon_reflect"
-		{
-			"dfile"	"HUD/d_images_v3"
-				"dnegfile"	"HUD/dneg_images_v3"
-				"x"		"192"
-				"y"		"32"
-				"width"		"64"
-				"height"	"32"
-		}		
-		"rescue_ranger_reflect"
-		{
-			"dfile"	"HUD/d_images_v3"
-				"dnegfile"	"HUD/dneg_images_v3"
-				"x"		"192"
-				"y"		"64"
-				"width"		"64"
-				"height"	"32"
-		}
-		"ham_shank"
-		{
-				"dfile"	"HUD/d_images_v3"
-				"dnegfile"	"HUD/dneg_images_v3"
-				"x"		"192"
-				"y"		"96"
-				"width"		"64"
-				"height"	"32"
-		}
-		"psapper"
-		{
-				"dfile"	"HUD/d_images_v3"
-				"dnegfile"	"HUD/dneg_images_v3"
-				"x"		"256"
-				"y"		"480"
-				"width"		"128"
-				"height"	"32"
-		}
-		"spellbook_teleport"
-		{
-				"dfile"	"HUD/d_images_v3"
-				"dnegfile"	"HUD/dneg_images_v3"
-				"x"		"192"
-				"y"		"192"
-				"width"		"64"
-				"height"	"32"
-		}
-		"spellbook_skeleton"
-		{
-				"dfile"	"HUD/d_images_v3"
-				"dnegfile"	"HUD/dneg_images_v3"
-				"x"		"192"
-				"y"		"224"
-				"width"		"64"
-				"height"	"32"
-		}
-		"spellbook_mirv"
-		{
-				"dfile"	"HUD/d_images_v3"
-				"dnegfile"	"HUD/dneg_images_v3"
-				"x"		"192"
-				"y"		"256"
-				"width"		"64"
-				"height"	"32"
-		}
-		"spellbook_meteor"
-		{
-				"dfile"	"HUD/d_images_v3"
-				"dnegfile"	"HUD/dneg_images_v3"
-				"x"		"192"
-				"y"		"288"
-				"width"		"64"
-				"height"	"32"
-		}
-		"spellbook_lightning"
-		{
-				"dfile"	"HUD/d_images_v3"
-				"dnegfile"	"HUD/dneg_images_v3"
-				"x"		"192"
-				"y"		"320"
-				"width"		"64"
-				"height"	"32"
-		}
-		"spellbook_fireball"
-		{
-				"dfile"	"HUD/d_images_v3"
-				"dnegfile"	"HUD/dneg_images_v3"
-				"x"		"192"
-				"y"		"352"
-				"width"		"64"
-				"height"	"32"
-		}
-		"spellbook_boss"
-		{
-				"dfile"	"HUD/d_images_v3"
-				"dnegfile"	"HUD/dneg_images_v3"
-				"x"		"192"
-				"y"		"384"
-				"width"		"64"
-				"height"	"32"
-		}
-		"spellbook_blastjump"
-		{
-				"dfile"	"HUD/d_images_v3"
-				"dnegfile"	"HUD/dneg_images_v3"
-				"x"		"192"
-				"y"		"416"
-				"width"		"64"
-				"height"	"32"
-		}
-		"spellbook_bats"
-		{
-				"dfile"	"HUD/d_images_v3"
-				"dnegfile"	"HUD/dneg_images_v3"
-				"x"		"192"
-				"y"		"448"
-				"width"		"64"
-				"height"	"32"
-		}
-		"spellbook_athletic"
-		{
-				"dfile"	"HUD/d_images_v3"
-				"dnegfile"	"HUD/dneg_images_v3"
-				"x"		"192"
-				"y"		"480"
-				"width"		"64"
-				"height"	"32"
-		}
-		"golden_fryingpan"
-		{
-				"dfile"	"HUD/d_images_v3"
-				"dnegfile"	"HUD/dneg_images_v3"
-				"x"		"96"
-				"y"		"0"
-				"width"		"96"
-				"height"	"32"
-		}
-		"australium"
-		{
-				"dfile"	"HUD/d_images_v3"
-				"dnegfile"	"HUD/dneg_images_v3"
-				"x"		"192"
-				"y"		"512"
-				"width"		"64"
-				"height"	"32"
-		}
-		"eureka_teleport_home"
-		{
-			"file"	"HUD/eng_eureka_tele_home"
-			"x"		"0"
-			"y"		"0"
-			"width"		"128"
-			"height"	"128"
-		}
 
-		"hud_taunt_menu_icon"
-		{
-			"file"		"hud/ico_reel"
-			"x"		"0"
-			"y"		"0"
-			"width"		"256"
-			"height"	"256"
-		}
-
-		"hud_spy_disguise_menu_icon"
-		{
-			"file"		"hud/ico_spy"
-			"x"		"0"
-			"y"		"0"
-			"width"		"256"
-			"height"	"256"
-		}
-
-		"hud_taunt_hint"
-		{
-			"file"		"effects/speech_taunt"
-			"x"		"0"
-			"y"		"0"
-			"width"		"256"
-			"height"	"256"
-		}
-
-		"ico_notify_partner_taunt"
-		{
-			"file"		"effects/speech_taunt_bad"
-			"x"			"0"
-			"y"			"0"
-			"width"		"256"
-			"height"	"256"
-		}
-		"the_classic"
-		{
-				"dfile"	"HUD/d_images_v3"
-				"dnegfile"	"HUD/dneg_images_v3"
-				"x"		"256"
-				"y"		"577"
-				"width"		"128"
-				"height"	"32"
-		}
-		"tide_turner"
-		{
-				"dfile"	"HUD/d_images_v3"
-				"dnegfile"	"HUD/dneg_images_v3"
-				"x"		"192"
-				"y"		"545"
-				"width"		"64"
-				"height"	"32"
-		}
-		"bread_bite"
-		{
-				"dfile"	"HUD/d_images_v3"
-				"dnegfile"	"HUD/dneg_images_v3"
-				"x"		"192"
-				"y"		"577"
-				"width"		"64"
-				"height"	"32"
-		}
-		"snack_attack"
-		{
-				"dfile"	"HUD/d_images_v3"
-				"dnegfile"	"HUD/dneg_images_v3"
-				"x"		"256"
-				"y"		"608"
-				"width"		"128"
-				"height"	"32"
-		}
-		"back_scatter"
-		{
-				"dfile"	"HUD/d_images_v3"
-				"dnegfile"	"HUD/dneg_images_v3"
-				"x"		"256"
-				"y"		"512"
-				"width"		"128"
-				"height"	"32"
-		}
-		"airstrike"
-		{
-				"dfile"	"HUD/d_images_v3"
-				"dnegfile"	"HUD/dneg_images_v3"
-				"x"		"256"
-				"y"		"545"
-				"width"		"128"
-				"height"	"32"
-		}
-		"ai_flamethrower"
-		{
-				"dfile"	"HUD/d_images_v3"
-				"dnegfile"	"HUD/dneg_images_v3"
-				"x"		"256"
-				"y"		"640"
-				"width"		"128"
-				"height"	"32"
-		}
-		"necro_smasher"
-		{
-				"dfile"	"HUD/d_images_v3"
-				"dnegfile"	"HUD/dneg_images_v3"
-				"x"		"192"
-				"y"		"608"
-				"width"		"64"
-				"height"	"32"
-		}
-		"bumper_kart"
-		{
-				"dfile"	"HUD/d_images_v3"
-				"dnegfile"	"HUD/dneg_images_v3"
-				"x"		"192"
-				"y"		"640"
-				"width"		"64"
-				"height"	"32"
-		}		
-		"eotl_duck"
-		{
-			"file"		"hud/leaderboard_duck"
-			"negfile"	"HUD/dneg_leaderboard_duck"
-			"x"		"0"
-			"y"		"0"
-			"width"		"64"
-			"height"	"64"
-		}
-		"eotl_duck_dneg"
-		{
-			"file"		"hud/dneg_leaderboard_duck"
-			"x"		"0"
-			"y"		"0"
-			"width"		"64"
-			"height"	"64"
-		}	
-		"crossing_guard"
-		{
-			"dfile"	"HUD/d_images_v3"
-			"dnegfile"	"HUD/dneg_images_v3"
-			"x"		"0"
-			"y"		"960"
-			"width"		"96"
-			"height"	"32"
-		}
-		"iron_bomber"
-		{
-			"dfile"	"HUD/d_images_v3"
-			"dnegfile"	"HUD/dneg_images_v3"
-			"x"		"256"
-			"y"		"672"
-			"width"		"128"
-			"height"	"32"
-		}
-		"quickiebomb_launcher"
-		{
-			"dfile"	"HUD/d_images_v3"
-			"dnegfile"	"HUD/dneg_images_v3"
-			"x"		"256"
-			"y"		"704"
-			"width"		"128"
-			"height"	"32"
-		}
-		"panic_attack"
-		{
-			"dfile"	"HUD/d_images_v3"
-			"dnegfile"	"HUD/dneg_images_v3"
-			"x"		"256"
-			"y"		"736"
-			"width"		"128"
-			"height"	"32"
-		}
-		// Mannpower
-		"mannpower_agility"
-		{
-			"dfile"	"HUD/d_images_v3"
-			"dnegfile"	"HUD/dneg_images_v3"
-			"x"		"96"
-			"y"		"32"
-			"width"		"35"
-			"height"	"32"
-		}
-		"mannpower_vamp"
-		{
-			"dfile"	"HUD/d_images_v3"
-			"dnegfile"	"HUD/dneg_images_v3"
-			"x"		"96"
-			"y"		"64"
-			"width"		"35"
-			"height"	"32"
-		}
-		"mannpower_resist"
-		{
-			"dfile"	"HUD/d_images_v3"
-			"dnegfile"	"HUD/dneg_images_v3"
-			"x"		"96"
-			"y"		"96"
-			"width"		"35"
-			"height"	"32"
-		}
-		"mannpower_haste"
-		{
-			"dfile"	"HUD/d_images_v3"
-			"dnegfile"	"HUD/dneg_images_v3"
-			"x"		"96"
-			"y"		"128"
-			"width"		"35"
-			"height"	"32"
-		}
-		"mannpower_fist"
-		{
-			"dfile"	"HUD/d_images_v3"
-			"dnegfile"	"HUD/dneg_images_v3"
-			"x"		"96"
-			"y"		"160"
-			"width"		"35"
-			"height"	"32"
-		}
-		"mannpower_reflect"
-		{
-			"dfile"	"HUD/d_images_v3"
-			"dnegfile"	"HUD/dneg_images_v3"
-			"x"		"128"
-			"y"		"160"
-			"width"		"40"
-			"height"	"32"
-		}
-		"mannpower_precision"
-		{
-			"dfile"	"HUD/d_images_v3"
-			"dnegfile"	"HUD/dneg_images_v3"
-			"x"		"96"
-			"y"		"224"
-			"width"		"35"
-			"height"	"32"
-		}
-		"mannpower_strength"
-		{
-			"dfile"	"HUD/d_images_v3"
-			"dnegfile"	"HUD/dneg_images_v3"
-			"x"		"96"
-			"y"		"256"
-			"width"		"35"
-			"height"	"32"
-		}
-		"mannpower_regen"
-		{
-			"dfile"	"HUD/d_images_v3"
-			"dnegfile"	"HUD/dneg_images_v3"
-			"x"		"96"
-			"y"		"288"
-			"width"		"35"
-			"height"	"32"
-		}
-		"mannpower_king"
-		{
-			"dfile"	"HUD/d_images_v3"
-			"dnegfile"	"HUD/dneg_images_v3"
-			"x"		"128"
-			"y"		"96"
-			"width"		"40"
-			"height"	"32"
-		}
-		"mannpower_plague"
-		{
-			"dfile"	"HUD/d_images_v3"
-			"dnegfile"	"HUD/dneg_images_v3"
-			"x"		"128"
-			"y"		"32"
-			"width"		"40"
-			"height"	"32"
-		}
-		"mannpower_supernova"
-		{
-			"dfile"	"HUD/d_images_v3"
-			"dnegfile"	"HUD/dneg_images_v3"
-			"x"		"128"
-			"y"		"64"
-			"width"		"40"
-			"height"	"32"
-		}
-		// END Mannpower
-
-		// Passtime
-		"passtime_intercept"
-		{
-			"dfile"	"HUD/d_images_v3"
-			"dnegfile"	"HUD/dneg_images_v3"
-			"x"		"96"
-			"y"		"704"
-			"width"		"96"
-			"height"	"32"
-		}
-		"passtime_steal"
-		{
-			"dfile"	"HUD/d_images_v3"
-			"dnegfile"	"HUD/dneg_images_v3"
-			"x"		"192"
-			"y"		"704"
-			"width"		"64"
-			"height"	"32"
-		}
-		"passtime_pass"
-		{
-			"dfile"	"HUD/d_images_v3"
-			"dnegfile"	"HUD/dneg_images_v3"
-			"x"		"96"
-			"y"		"736"
-			"width"		"96"
-			"height"	"32"	
-		}
-		"passtime_score_blue"
-		{
-			"dfile"	"HUD/d_images_v3"
-			"dnegfile"	"HUD/dneg_images_v3"
-			"x"		"192"
-			"y"		"736"
-			"width"		"64"
-			"height"	"64"
-		}
-		"passtime_score_red"
-		{
-			"dfile"	"HUD/d_images_v3"
-			"dnegfile"	"HUD/dneg_images_v3"
-			"x"		"192"
-			"y"		"800"
-			"width"		"64"
-			"height"	"64"	
-		}
-		"passtime_ball"
-		{
-			"file"		"passtime/hud/passtime_ball"
-			"x"		"0"
-			"y"		"0"
-			"width"	"128"
-			"height"	"128"
-		}
-		// END Passtime
-		"batsaber"
-		{
-			"dfile"	"HUD/d_images_v3"
-			"dnegfile"	"HUD/dneg_images_v3"
-			"x"		"256"
-			"y"		"768"
-			"width"		"128"
-			"height"	"32"	
-		}
-		"the_capper"
-		{
-			"dfile"	"HUD/d_images_v3"
-			"dnegfile"	"HUD/dneg_images_v3"
-			"x"		"256"
-			"y"		"800"
-			"width"		"128"
-			"height"	"32"	
-		}
- 		"shooting_star"
-		{
-			"dfile"	"HUD/d_images_v3"
-			"dnegfile"	"HUD/dneg_images_v3"
-			"x"		"256"
-			"y"		"832"
-			"width"		"128"
-			"height"	"32"	
-		}
- 		"giger_counter"
-		{
-			"dfile"	"HUD/d_images_v3"
-			"dnegfile"	"HUD/dneg_images_v3"
-			"x"		"192"
-			"y"		"896"
-			"width"		"64"
-			"height"	"32"	
-		}
- 		"prinny_machete"
-		{
-			"dfile"	"HUD/d_images_v3"
-			"dnegfile"	"HUD/dneg_images_v3"
-			"x"		"96"
-			"y"		"864"
-			"width"		"96"
-			"height"	"32"	
-		}
-//######################################################################################################
-//------------------------------------------------------------------------------------------------------
-//			Begin Modified Icons (Touch at your own risk)
-//------------------------------------------------------------------------------------------------------
-//######################################################################################################
 //SCOUT
 		"scattergun"
 		{
@@ -3468,7 +2762,7 @@
 				"width"		"86"
 				"height"	"32"
 		}
-		"shortstop"
+		"short_stop"
 		{
 				"dfile"	"vgui\logos\ImprovedKillIcons\d"
 				"dnegfile"	"vgui\logos\ImprovedKillIcons\dneg"
@@ -3494,15 +2788,6 @@
 				"y"		"0"
 				"width"		"92"
 				"height"	"32"
-		}
-		"back_scatter"
-		{
-				"dfile"	"vgui\logos\ImprovedKillIcons\d2"
-				"dnegfile"	"vgui\logos\ImprovedKillIcons\dneg2"
-				"x"		"129"
-				"y"		"0"
-				"width"		"93"
-				"height"	"31"
 		}
 		"the_winger"
 		{
@@ -3558,15 +2843,15 @@
 				"width"		"86"
 				"height"	"32"
 		}
-		"lava_bat_nofire"
-		{
-				"dfile"	"vgui\logos\ImprovedKillIcons\d"
-				"dnegfile"	"vgui\logos\ImprovedKillIcons\dneg"
-				"x"		"256"
-				"y"		"32"
-				"width"		"89"
-				"height"	"32"
-		}
+//		"lava_bat_nofire"
+//		{
+//				"dfile"	"vgui\logos\ImprovedKillIcons\d"
+//				"dnegfile"	"vgui\logos\ImprovedKillIcons\dneg"
+//				"x"		"256"
+//				"y"		"32"
+//				"width"		"89"
+//				"height"	"32"
+//		}
 		"lava_bat"
 		{
 				"dfile"	"vgui\logos\ImprovedKillIcons\d"
@@ -3676,15 +2961,6 @@
 				"width"		"112"
 				"height"	"32"
 		}
-		"airstrike"
-		{
-				"dfile"	"vgui\logos\ImprovedKillIcons\d2"
-				"dnegfile"	"vgui\logos\ImprovedKillIcons\dneg2"
-				"x"		"129"
-				"y"		"31"
-				"width"		"107"
-				"height"	"34"
-		}
 		"reserve_shooter"
 		{
 				"dfile"	"vgui\logos\ImprovedKillIcons\d"
@@ -3693,15 +2969,6 @@
 				"y"		"96"
 				"width"		"96"
 				"height"	"32"
-		}
-		"panic_attack"
-		{
-				"dfile"	"vgui\logos\ImprovedKillIcons\d2"
-				"dnegfile"	"vgui\logos\ImprovedKillIcons\dneg2"
-				"x"		"129"
-				"y"		"305"
-				"width"		"114"
-				"height"	"40"
 		}
 		"righteous_bison"
 		{
@@ -3721,15 +2988,15 @@
 				"width"		"64"
 				"height"	"32"
 		}
-		"pickaxe_escape"
-		{
-				"dfile"	"vgui\logos\ImprovedKillIcons\d"
-				"dnegfile"	"vgui\logos\ImprovedKillIcons\dneg"
-				"x"		"128"
-				"y"		"128"
-				"width"		"75"
-				"height"	"32"
-		}
+//		"pickaxe_escape"
+//		{
+//				"dfile"	"vgui\logos\ImprovedKillIcons\d"
+//				"dnegfile"	"vgui\logos\ImprovedKillIcons\dneg"
+//				"x"		"128"
+//				"y"		"128"
+//				"width"		"75"
+//				"height"	"32"
+//		}
 		"disciplinary_action"
 		{
 				"dfile"	"vgui\logos\ImprovedKillIcons\d"
@@ -3766,33 +3033,33 @@
 				"width"		"59"
 				"height"	"32"
 		}
-		"taunt_soldier_ornament"
-		{
-				"dfile"	"vgui\logos\ImprovedKillIcons\d"
-				"dnegfile"	"vgui\logos\ImprovedKillIcons\dneg"
-				"x"		"768"
-				"y"		"128"
-				"width"		"64"
-				"height"	"32"
-		}
-		"taunt_soldier_pineapple"
-		{
-				"dfile"	"vgui\logos\ImprovedKillIcons\d"
-				"dnegfile"	"vgui\logos\ImprovedKillIcons\dneg"
-				"x"		"896"
-				"y"		"128"
-				"width"		"58"
-				"height"	"32"
-		}
-		"taunt_soldier_cocktail"
-		{
-				"dfile"	"vgui\logos\ImprovedKillIcons\d"
-				"dnegfile"	"vgui\logos\ImprovedKillIcons\dneg"
-				"x"		"0"
-				"y"		"160"
-				"width"		"54"
-				"height"	"32"
-		}
+//		"taunt_soldier_ornament"
+//		{
+//				"dfile"	"vgui\logos\ImprovedKillIcons\d"
+//				"dnegfile"	"vgui\logos\ImprovedKillIcons\dneg"
+//				"x"		"768"
+//				"y"		"128"
+//				"width"		"64"
+//				"height"	"32"
+//		}
+//		"taunt_soldier_pineapple"
+//		{
+//				"dfile"	"vgui\logos\ImprovedKillIcons\d"
+//				"dnegfile"	"vgui\logos\ImprovedKillIcons\dneg"
+//				"x"		"896"
+//				"y"		"128"
+//				"width"		"58"
+//				"height"	"32"
+//		}
+//		"taunt_soldier_cocktail"
+//		{
+//				"dfile"	"vgui\logos\ImprovedKillIcons\d"
+//				"dnegfile"	"vgui\logos\ImprovedKillIcons\dneg"
+//				"x"		"0"
+//				"y"		"160"
+//				"width"		"54"
+//				"height"	"32"
+//		}
 		"mantreads"
 		{
 				"dfile"	"vgui\logos\ImprovedKillIcons\d"
@@ -3809,8 +3076,8 @@
 				"dnegfile"	"vgui\logos\ImprovedKillIcons\dneg"
 				"x"		"0"
 				"y"		"192"
-				"width"		"120"
-				"height"	"29"
+				"width"		"119"
+				"height"	"32"
 		}
 		"backburner"
 		{
@@ -3819,7 +3086,7 @@
 				"x"		"128"
 				"y"		"192"
 				"width"		"120"
-				"height"	"35"
+				"height"	"32"
 		}
 		"degreaser"
 		{
@@ -3827,35 +3094,26 @@
 				"dnegfile"	"vgui\logos\ImprovedKillIcons\dneg"
 				"x"		"256"
 				"y"		"192"
-				"width"		"130"
-				"height"	"29"
+				"width"		"126"
+				"height"	"32"
 		}
 		"phlogistinator"
 		{
 				"dfile"	"vgui\logos\ImprovedKillIcons\d"
 				"dnegfile"	"vgui\logos\ImprovedKillIcons\dneg"
 				"x"		"384"
-				"y"		"193"
+				"y"		"192"
 				"width"		"124"
-				"height"	"35"
+				"height"	"32"
 		}
 		"rainblower"
 		{
 				"dfile"	"vgui\logos\ImprovedKillIcons\d"
 				"dnegfile"	"vgui\logos\ImprovedKillIcons\dneg"
 				"x"		"512"
-				"y"		"193"
+				"y"		"192"
 				"width"		"122"
 				"height"	"32"
-		}
-		"ai_flamethrower"
-		{
-				"dfile"	"vgui\logos\ImprovedKillIcons\d2"
-				"dnegfile"	"vgui\logos\ImprovedKillIcons\dneg2"
-				"x"		"129"
-				"y"		"194"
-				"width"		"123"
-				"height"	"45"
 		}
 		"flaregun"
 		{
@@ -3875,15 +3133,15 @@
 				"width"		"94"
 				"height"	"32"
 		}
-		"detonator_explode"
-		{
-				"dfile"	"vgui\logos\ImprovedKillIcons\d"
-				"dnegfile"	"vgui\logos\ImprovedKillIcons\dneg"
-				"x"		"896"
-				"y"		"192"
-				"width"		"95"
-				"height"	"32"
-		}
+//		"detonator_explode"
+//		{
+//				"dfile"	"vgui\logos\ImprovedKillIcons\d"
+//				"dnegfile"	"vgui\logos\ImprovedKillIcons\dneg"
+//				"x"		"896"
+//				"y"		"192"
+//				"width"		"95"
+//				"height"	"32"
+//		}
 		"manmelter"
 		{
 				"dfile"	"vgui\logos\ImprovedKillIcons\d"
@@ -3893,7 +3151,7 @@
 				"width"		"94"
 				"height"	"32"
 		}
-		"scorch_shot"
+		"scorchshot"
 		{
 				"dfile"	"vgui\logos\ImprovedKillIcons\d"
 				"dnegfile"	"vgui\logos\ImprovedKillIcons\dneg"
@@ -4174,15 +3432,6 @@
 				"width"		"101"
 				"height"	"32"
 		}
-		"iron_bomber"
-		{
-				"dfile"	"vgui\logos\ImprovedKillIcons\d2"
-				"dnegfile"	"vgui\logos\ImprovedKillIcons\dneg2"
-				"x"		"129"
-				"y"		"239"
-				"width"		"113"
-				"height"	"34"
-		}
 		"sticky_resistance"
 		{
 				"dfile"	"vgui\logos\ImprovedKillIcons\d"
@@ -4190,15 +3439,6 @@
 				"x"		"256"
 				"y"		"352"
 				"width"		"85"
-				"height"	"32"
-		}
-		"quickiebomb_launcher"
-		{
-				"dfile"	"vgui\logos\ImprovedKillIcons\d2"
-				"dnegfile"	"vgui\logos\ImprovedKillIcons\dneg2"
-				"x"		"129"
-				"y"		"273"
-				"width"		"97"
 				"height"	"32"
 		}
 		"demoshield"
@@ -4218,15 +3458,6 @@
 				"y"		"352"
 				"width"		"76"
 				"height"	"32"
-		}
-		"tide_turner"
-		{
-				"dfile"	"vgui\logos\ImprovedKillIcons\d2"
-				"dnegfile"	"vgui\logos\ImprovedKillIcons\dneg2"
-				"x"		"129"
-				"y"		"96"
-				"width"		"77"
-				"height"	"36"
 		}
 		"bottle"
 		{
@@ -4363,24 +3594,6 @@
 //				"width"		"86"
 //				"height"	"32"
 //		}
-		"loose_cannon_impact"
-		{
-				"dfile"	"vgui\logos\ImprovedKillIcons\d2"
-				"dnegfile"	"vgui\logos\ImprovedKillIcons\dneg2"
-				"x"		"0"
-				"y"		"74"
-				"width"		"101"
-				"height"	"34"
-		}
-		"loose_cannon_explosion"
-		{
-				"dfile"	"vgui\logos\ImprovedKillIcons\d2"
-				"dnegfile"	"vgui\logos\ImprovedKillIcons\dneg2"
-				"x"		"0"
-				"y"		"40"
-				"width"		"117"
-				"height"	"34"
-		}		
 //HEAVY
 		"minigun"
 		{
@@ -4508,15 +3721,6 @@
 				"width"		"120"
 				"height"	"32"
 		}
-		"bread_bite"
-		{
-				"dfile"	"vgui\logos\ImprovedKillIcons\d2"
-				"dnegfile"	"vgui\logos\ImprovedKillIcons\dneg2"
-				"x"		"129"
-				"y"		"132"
-				"width"		"80"
-				"height"	"28"
-		}
 		"taunt_heavy"
 		{
 				"dfile"	"vgui\logos\ImprovedKillIcons\d"
@@ -4554,15 +3758,6 @@
 				"width"		"128"
 				"height"	"32"
 		}
-		"rescue_ranger"
-		{
-				"dfile"	"vgui\logos\ImprovedKillIcons\d2"
-				"dnegfile"	"vgui\logos\ImprovedKillIcons\dneg2"
-				"x"		"0"
-				"y"		"108"
-				"width"		"129"
-				"height"	"40"
-		}
 		"short_circuit"
 		{
 				"dfile"	"vgui\logos\ImprovedKillIcons\d"
@@ -4570,15 +3765,6 @@
 				"x"		"384"
 				"y"		"512"
 				"width"		"74"
-				"height"	"32"
-		}
-		"giger_counter"
-		{
-				"dfile"	"vgui\logos\ImprovedKillIcons\d"
-				"dnegfile"	"vgui\logos\ImprovedKillIcons\dneg"
-				"x"		"256"
-				"y"		"576"
-				"width"		"73"
 				"height"	"32"
 		}
 		"wrench"
@@ -4841,7 +4027,7 @@
 				"dnegfile"	"vgui\logos\ImprovedKillIcons\dneg"
 				"x"		"128"
 				"y"		"672"
-				"width"		"74"
+				"width"		"59"
 				"height"	"32"
 		}
 		"huntsman_flyingburn"
@@ -4850,7 +4036,7 @@
 				"dnegfile"	"vgui\logos\ImprovedKillIcons\dneg"
 				"x"		"256"
 				"y"		"672"
-				"width"		"98"
+				"width"		"61"
 				"height"	"32"
 		}
 		"sydney_sleeper"
@@ -4896,33 +4082,6 @@
 //				"x"		"896"
 //				"y"		"672"
 //				"width"		"127"
-//				"height"	"32"
-//		}
-		"the_classic"
-		{
-				"dfile"	"vgui\logos\ImprovedKillIcons\d2"
-				"dnegfile"	"vgui\logos\ImprovedKillIcons\dneg2"
-				"x"		"129"
-				"y"		"65"
-				"width"		"129"
-				"height"	"31"
-		}
- 		"shooting_star"
-		{
-				"dfile"	"vgui\logos\ImprovedKillIcons\d3"
-				"dnegfile"	"vgui\logos\ImprovedKillIcons\dneg3"
-				"x"		"256"
-				"y"		"832"
-				"width"		"128"
-				"height"	"32"	
-		}
-//		"shooting_star_headshot"
-//		{
-//				"dfile"	"vgui\logos\ImprovedKillIcons\d4"
-//				"dnegfile"	"vgui\logos\ImprovedKillIcons\dneg4"
-//				"x"		"768"
-//				"y"		"736"
-//				"width"		"105"
 //				"height"	"32"
 //		}
 		"smg"
@@ -5205,15 +4364,6 @@
 				"width"		"105"
 				"height"	"32"
 		}
-		"snack_attack"
-		{
-				"dfile"	"HUD/d_images_v3"
-				"dnegfile"	"HUD/dneg_images_v3"
-				"x"		"256"
-				"y"		"608"
-				"width"		"128"
-				"height"	"32"
-		}
 		"taunt_spy"
 		{
 				"dfile"	"vgui\logos\ImprovedKillIcons\d"
@@ -5350,15 +4500,6 @@
 				"width"		"49"
 				"height"	"32"
 		}
-		"the_capper"
-		{
-				"dfile"	"vgui\logos\ImprovedKillIcons\d3"
-				"dnegfile"	"vgui\logos\ImprovedKillIcons\dneg3"
-				"x"		"256"
-				"y"		"800"
-				"width"		"96"
-				"height"	"32"
-		}
 		"maxgun"
 		{
 				"dfile"	"vgui\logos\ImprovedKillIcons\d"
@@ -5458,43 +4599,6 @@
 				"width"		"75"
 				"height"	"32"
 		}
-		"freedom_staff"
-		{
-				"dfile"	"vgui\logos\ImprovedKillIcons\d2"
-				"dnegfile"	"vgui\logos\ImprovedKillIcons\dneg2"
-				"x"		"0"
-				"y"		"0"
-				"width"		"104"
-				"height"	"39"
-		}
-		"ham_shank"
-		{
-				"dfile"	"vgui\logos\ImprovedKillIcons\d2"
-				"dnegfile"	"vgui\logos\ImprovedKillIcons\dneg2"
-				"x"		"0"
-				"y"		"148"
-				"width"		"79"
-				"height"	"34"
-		}
-		"skullbat"
-		{
-				"dfile"	"vgui\logos\ImprovedKillIcons\d2"
-				"dnegfile"	"vgui\logos\ImprovedKillIcons\dneg2"
-				"x"		"0"
-				"y"		"246"
-				"width"		"91"
-				"height"	"32"
-		}
- 		"prinny_machete"
-		{
-				"dfile"	"vgui\logos\ImprovedKillIcons\d3"
-				"dnegfile"	"vgui\logos\ImprovedKillIcons\dneg3"
-				"x"		"0"
-				"y"		"0"
-				"width"		"96"
-				"height"	"32"	
-		}
-
 //OTHER
 		"bleed_kill"
 		{
@@ -5632,272 +4736,5 @@
 				"width"		"78"
 				"height"	"32"
 		}
-
-//######################################################################################################
-//------------------------------------------------------------------------------------------------------
-//			Begin Customizable Icons (Do touch)
-//------------------------------------------------------------------------------------------------------
-//######################################################################################################
-//ALTERNATE ICONS
-//		"scotland_shard"
-//		{
-//				"dfile"	"vgui\logos\ImprovedKillIcons\d"
-//				"dnegfile"	"vgui\logos\ImprovedKillIcons\dneg"
-//				"x"		"768"
-//				"y"		"288"
-//				"width"		"80"
-//				"height"	"32"
-//		}
-//BLEED WEAPONS - RED IMPACTS
-		"boston_basher"
-		{
-				"dfile"	"vgui\logos\ImprovedKillIcons_BloodRedImpacts\d"
-				"dnegfile"	"vgui\logos\ImprovedKillIcons_BloodRedImpacts\dneg"
-				"x"		"0"
-				"y"		"0"
-				"width"		"89"
-				"height"	"32"
-		}
-		"scout_sword"
-		{
-				"dfile"	"vgui\logos\ImprovedKillIcons_BloodRedImpacts\d"
-				"dnegfile"	"vgui\logos\ImprovedKillIcons_BloodRedImpacts\dneg"
-				"x"		"128"
-				"y"		"0"
-				"width"		"87"
-				"height"	"32"
-		}
-		"southern_comfort_kill"
-		{
-				"dfile"	"vgui\logos\ImprovedKillIcons_BloodRedImpacts\d"
-				"dnegfile"	"vgui\logos\ImprovedKillIcons_BloodRedImpacts\dneg"
-				"x"		"0"
-				"y"		"32"
-				"width"		"70"
-				"height"	"32"
-		}
-		"tribalkukri"
-		{
-				"dfile"	"vgui\logos\ImprovedKillIcons_BloodRedImpacts\d"
-				"dnegfile"	"vgui\logos\ImprovedKillIcons_BloodRedImpacts\dneg"
-				"x"		"128"
-				"y"		"32"
-				"width"		"81"
-				"height"	"32"
-		}
-
-//BLEED WEAPONS - BLOOD DRIPS
-//		"boston_basher"
-//		{
-//				"dfile"	"vgui\logos\ImprovedKillIcons_BloodDrips\d"
-//				"dnegfile"	"vgui\logos\ImprovedKillIcons_BloodRedImpacts\dneg"
-//				"x"		"0"
-//				"y"		"0"
-//				"width"		"89"
-//				"height"	"32"
-//		}
-//		"scout_sword"
-//		{
-//				"dfile"	"vgui\logos\ImprovedKillIcons_BloodDrips\d"
-//				"dnegfile"	"vgui\logos\ImprovedKillIcons_BloodRedImpacts\dneg"
-//				"x"		"128"
-//				"y"		"0"
-//				"width"		"87"
-//				"height"	"32"
-//		}
-//		"southern_comfort_kill"
-//		{
-//				"dfile"	"vgui\logos\ImprovedKillIcons_BloodDrips\d"
-//				"dnegfile"	"vgui\logos\ImprovedKillIcons_BloodRedImpacts\dneg"
-//				"x"		"0"
-//				"y"		"32"
-//				"width"		"70"
-//				"height"	"32"
-//		}
-//		"tribalkukri"
-//		{
-//				"dfile"	"vgui\logos\ImprovedKillIcons_BloodDrips\d"
-//				"dnegfile"	"vgui\logos\ImprovedKillIcons_BloodRedImpacts\dneg"
-//				"x"		"128"
-//				"y"		"32"
-//				"width"		"81"
-//				"height"	"32"
-//		}
-
-//PROJECTILE ONLY ARROW-BASED WEAPONS
-//		"crusaders_crossbow"
-//		{
-//				"dfile"	"vgui\logos\ImprovedKillIcons_ProjectileArrows\d"
-//				"dnegfile"	"vgui\logos\ImprovedKillIcons_ProjectileArrows\dneg"
-//				"x"		"0"
-//				"y"		"0"
-//				"width"		"89"
-//				"height"	"32"
-//		}
-//		"huntsman"
-//		{
-//				"dfile"	"vgui\logos\ImprovedKillIcons_ProjectileArrows\d"
-//				"dnegfile"	"vgui\logos\ImprovedKillIcons_ProjectileArrows\dneg"
-//				"x"		"128"
-//				"y"		"0"
-//				"width"		"78"
-//				"height"	"32"
-//		}
-//		"huntsman_flyingburn"
-//		{
-//				"dfile"	"HUD/d_images"
-//				"dnegfile"	"HUD/dneg_images"
-//				"x"		"263"
-//				"y"		"223"
-//				"width"		"103"
-//				"height"	"32"
-//		}
-
-//PROJECTILE ONLY ROCKET LAUNCHERS
-//		"tf_projectile_rocket"
-//		{
-//				"dfile"	"vgui\logos\ImprovedKillIcons_ProjectileRockets\d"
-//				"dnegfile"	"vgui\logos\ImprovedKillIcons_ProjectileRockets\dneg"
-//				"x"		"0"
-//				"y"		"0"
-//				"width"		"83"
-//				"height"	"32"
-//		}
-		"rocketlauncher_directhit"
-		{
-				"dfile"	"vgui\logos\ImprovedKillIcons_ProjectileRockets\d"
-				"dnegfile"	"vgui\logos\ImprovedKillIcons_ProjectileRockets\dneg"
-				"x"		"128"
-				"y"		"0"
-				"width"		"94"
-				"height"	"32"
-		}
-//		"blackbox"
-//		{
-//				"dfile"	"vgui\logos\ImprovedKillIcons_ProjectileRockets\d"
-//				"dnegfile"	"vgui\logos\ImprovedKillIcons_ProjectileRockets\dneg"
-//				"x"		"0"
-//				"y"		"32"
-//				"width"		"94"
-//				"height"	"32"
-//		}
-		"liberty_launcher"
-		{
-				"dfile"	"vgui\logos\ImprovedKillIcons_ProjectileRockets\d"
-				"dnegfile"	"vgui\logos\ImprovedKillIcons_ProjectileRockets\dneg"
-				"x"		"128"
-				"y"		"32"
-				"width"		"87"
-				"height"	"32"
-		}
-
-//PROJECTILE ONLY STICKY BOMB LAUNCHERS
-		"tf_projectile_pipe_remote"
-		{
-				"dfile"	"vgui\logos\ImprovedKillIcons_ProjectileStickyBombs\d"
-				"dnegfile"	"vgui\logos\ImprovedKillIcons_ProjectileStickyBombs\dneg"
-				"x"		"0"
-				"y"		"0"
-				"width"		"63"
-				"height"	"32"
-		}
-		"sticky_resistance"
-		{
-				"dfile"	"vgui\logos\ImprovedKillIcons_ProjectileStickyBombs\d"
-				"dnegfile"	"vgui\logos\ImprovedKillIcons_ProjectileStickyBombs\dneg"
-				"x"		"0"
-				"y"		"33"
-				"width"		"63"
-				"height"	"32"
-		}
-		"quickiebomb_launcher"
-		{
-				"dfile"	"vgui\logos\ImprovedKillIcons_ProjectileStickyBombs\d"
-				"dnegfile"	"vgui\logos\ImprovedKillIcons_ProjectileStickyBombs\dneg"
-				"x"		"0"
-				"y"		"65"
-				"width"		"63"
-				"height"	"32"
-		}
-		// TJ Missing textures... not consistent but still
-		"crocodile"
-		{
-			"dfile"	"HUD/d_images_v3"
-			"dnegfile"	"HUD/dneg_images_v3"
-			"x"		"256"
-			"y"		"864"
-			"width"		"128"
-			"height"	"32"
-		}
-
- 		"dragons_fury"
-		{
-			"dfile"	"HUD/d_images_v3"
-			"dnegfile"	"HUD/dneg_images_v3"
-			"x"		"0"
-			"y"		"992"
-			"width"		"96"
-			"height"	"32"
-		}
-
- 		"dragons_fury_bonus"
-		{
-			"dfile"	"HUD/d_images_v3"
-			"dnegfile"	"HUD/dneg_images_v3"
-			"x"		"256"
-			"y"		"992"
-			"width"		"128"
-			"height"	"32"
-		}
-
-		"hot_hand"
-		{
-			"dfile"	"HUD/d_images_v3"
-			"dnegfile"	"HUD/dneg_images_v3"
-			"x"		"256"
-			"y"		"928"
-			"width"		"64"
-			"height"	"32"
-		}
-
-		"gas_blast"
-		{
-			"dfile"	"HUD/d_images_v3"
-			"dnegfile"	"HUD/dneg_images_v3"
-			"x"		"256"
-			"y"		"960"
-			"width"		"64"
-			"height"	"32"
-		}
-	}
-}
-//ORIGINAL STYLE SHORT FLAMETHROWERS
-//		"flamethrower"
-//		{
-//				"dfile"	"vgui\logos\ImprovedKillIcons_ShortFlamethrowers\d"
-//				"dnegfile"	"vgui\logos\ImprovedKillIcons_ShortFlamethrowers\dneg"
-//				"x"		"0"
-//				"y"		"0"
-//				"width"		"89"
-//				"height"	"32"
-//		}
-//		"backburner"
-//		{
-//				"dfile"	"vgui\logos\ImprovedKillIcons_ShortFlamethrowers\d"
-//				"dnegfile"	"vgui\logos\ImprovedKillIcons_ShortFlamethrowers\dneg"
-//				"x"		"128"
-//				"y"		"0"
-//				"width"		"90"
-//				"height"	"32"
-//		}
-//		"degreaser"
-//		{
-//				"dfile"	"vgui\logos\ImprovedKillIcons_ShortFlamethrowers\d"
-//				"dnegfile"	"vgui\logos\ImprovedKillIcons_ShortFlamethrowers\dneg"
-//				"x"		"0"
-//				"y"		"32"
-//				"width"		"81"
-//				"height"	"32"
-//		}
 	}
 }
