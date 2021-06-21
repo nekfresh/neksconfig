@@ -1,7 +1,25 @@
 # tf2config
 
+A custom config for Team Fortress 2.
+
+#### Features
+
+* [###]()
+* [###]()
+* [###]()
+
+### Screenshots
+
+* [Main Menu]()
+* [Low HP & Ammo]()
+* [Default Scoreboard]()
+* [Ubercharge]()
+* [MvM Gameplay]()
+
+**Will soon update _features_ and screenshots in the future.**
+
 ### Launch Options
-+exec autoexec +mat_showlowresimage 1 -dxlevel 91 -w 1920 -h 1080 -freq 144 -threads 4 -noborder -noforcemspd -snoforceformat -noforcemaccel -nojoy -nosteamcontroller -reuse -nocrashdialog -high -softparticlesdefaultoff -particles 1 -noipx -primarysound
++exec autoexec +mat_showlowresimage 1 -dxlevel 81 -w 1920 -h 1080 -freq 144 -threads 4 -novid -noborder -noforcemspd -snoforceformat -noforcemaccel -nojoy -nosteamcontroller -reuse -nocrashdialog -high -softparticlesdefaultoff -particles 1 -noipx -primarysound
 
 ### Installation
 1. Download ahud by clicking `Download ZIP` from the green `Clone or download` button
