@@ -10,11 +10,9 @@ A custom config for Team Fortress 2.
 
 ### Screenshots
 
-* [Main Menu]()
-* [Low HP & Ammo]()
-* [Default Scoreboard]()
-* [Ubercharge]()
-* [MvM Gameplay]()
+* [###]()
+* [###]()
+* [###]()
 
 **Will soon update _features_ and screenshots in the future.**
 
