@@ -14,7 +14,7 @@ A custom config for Team Fortress 2.
 * [###]()
 * [###]()
 
-**Will soon update _features_ and screenshots in the future.**
+**Will soon update _features_ and _screenshots_ in the future.**
 
 ### Launch Options
 +exec autoexec +mat_showlowresimage 1 -dxlevel 81 -w 1920 -h 1080 -freq 144 -threads 4 -novid -noborder -noforcemspd -snoforceformat -noforcemaccel -nojoy -nosteamcontroller -reuse -nocrashdialog -high -softparticlesdefaultoff -particles 1 -noipx -primarysound
