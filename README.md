@@ -1,4 +1,4 @@
-# tf2config
+# neksconfig
 
 A custom config for Team Fortress 2.
 
